@@ -1,0 +1,5 @@
+export const SEARCH_PRODUCTS = "SEARCH_PRODUCTS";
+export const CLEAR_PRODUCTS = "CLEAR_PRODUCTS";
+export const SET_ALERT = "SET_ALERT";
+export const TOGGLE_ALERT = "TOGGLE_ALERT";
+export const SET_LOADING = "SET_LOADING";
